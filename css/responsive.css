@@ -25,13 +25,28 @@
   #social {
     position: 72px;
   }
-  .col-3 first shadow {
+  .col-3 p {
     column-count: 2;
   }
-   .col-1 shadow {
+   .col-1 p {
     column-count: 2;
   }
-   .col-2 first shadow {
+   .col-2 p {
     column-count: 2;
   }
 }
+
+@media (max-width: 750px) {
+  #navbar nav a{
+    font-size: .9em;
+  }
+  .col-3 p {
+    column-count: 1;
+  }
+}
+
+
+
+
+
+
