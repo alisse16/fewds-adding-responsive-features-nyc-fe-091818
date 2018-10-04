@@ -27,6 +27,7 @@
   }
   .col-3 p {
     column-count: 2;
+     column-rule: 1px dotted #ccc;
   }
    .col-1 p {
     column-count: 2;
