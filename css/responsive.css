@@ -28,12 +28,17 @@
   .col-3 p {
     column-count: 2;
      column-rule: 1px dotted #ccc;
+     column-gap: 1.5em;
   }
    .col-1 p {
     column-count: 2;
+     column-rule: 1px dotted #ccc;
+     column-gap: 1.5em;2;
   }
    .col-2 p {
     column-count: 2;
+     column-rule: 1px dotted #ccc;
+     column-gap: 1.5em;
   }
 }
 
