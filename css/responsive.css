@@ -49,6 +49,12 @@
   .col-3 p {
     column-count: 1;
   }
+    .col-2 p {
+    column-count: 1;
+  }
+    .col-1 p {
+    column-count: 1;
+  }
 }
 
 
